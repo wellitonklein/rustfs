@@ -2,6 +2,9 @@
 
 Este projeto é composto por duas partes principais: `backend` e `frontend`. Abaixo estão as instruções para build e execução de cada uma dessas partes.
 
+## Arquitetura
+![image](https://github.com/user-attachments/assets/862e411a-ba7e-43ca-8649-6edb07911ea5)
+
 ## Banco de Dados
 
 ### Descrição
