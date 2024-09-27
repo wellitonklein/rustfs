@@ -1,0 +1,21 @@
+### [GET] Get all users
+GET http://127.0.0.1:8000/api/users
+
+### [POST] Create a user
+POST http://127.0.0.1:8000/api/users
+
+{
+  "name": "Alice Doe", 
+  "email": "alice.doe@mail.com"
+}
+
+### [PUT] Update a user
+PUT http://127.0.0.1:8000/api/users/2
+
+{
+  "name": "Alice Doe 2", 
+  "email": "alice.doe@mail.com"
+}
+
+### [DELETE] Delete a user
+DELETE http://127.0.0.1:8000/api/users/2
